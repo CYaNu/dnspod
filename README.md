@@ -1,5 +1,5 @@
 # 基于ArDNSPod修改的ddnspod脚本
-主要用来在二级路由或者旁路由上更新dns
+主要用来在二级路由或者旁路由上更新DNSPod的域名DNS
 
 具体操作：
   1 在dns.conf里面填入token和域名（第一位置为主域名如xxx.com,第二位置为二级域名如www）。
