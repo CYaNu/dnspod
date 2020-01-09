@@ -2,7 +2,7 @@
 
 #################################################
 #
-# DDnsPod CYU V1.0 
+# DNSPod CYU V1.0 
 # 主要改动以适应 二级路由或者旁路由更新DNSPod
 # Created by CYaNu <cyanulee@gmail.com> , 2019-12-28.
 #
